@@ -8,7 +8,6 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -139,20 +138,6 @@ _For more examples, please refer to the [Documentation](https://dashboard.alchem
 
 
 
-<!-- ROADMAP -->
-## Roadmap
-
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
-
-See the [open issues](https://github.com/adharshrj/Web3-Eth-Dash/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 <!-- CONTRIBUTING -->
 ## Contributing
 
@@ -216,14 +201,10 @@ Project Link: [https://github.com/adharshrj/Web3-Eth-Dash](https://github.com/ad
 [license-url]: https://github.com/adharshrj/Web3-Eth-Dash/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/adharsh-rj/
-[product-screenshot1]: <img width="960" alt="Screenshot (191)" src="https://user-images.githubusercontent.com/81523460/206792377-81b365a1-0bce-4ddf-9b81-e6e5476df3bf.png">
-
-[product-screenshot2]: <img width="960" alt="Screenshot (192)" src="https://user-images.githubusercontent.com/81523460/206792346-2df757a0-fb3f-4e3a-874b-bde40f504248.png">
-
-[product-screenshot3]: <img width="960" alt="Screenshot (194)" src="https://user-images.githubusercontent.com/81523460/206792259-a9888ffd-ec6b-4771-931e-20a36be15218.png">
-
-[product-screenshot4]: <img width="960" alt="Screenshot (193)" src="https://user-images.githubusercontent.com/81523460/206792319-8a4e08be-e497-4108-98c2-73adee154251.png">
-
+[product-screenshot1]: images/home.png
+[product-screenshot2]: images/login.png
+[product-screenshot3]: images/dashboard.png
+[product-screenshot4]: images/getnfts.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
