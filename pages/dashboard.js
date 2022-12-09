@@ -25,7 +25,7 @@ function Dashboard() {
   const [ensNFT, setEnsNFT] = useState();
   let ensTemp = [];
   ensTemp = [ens] ? (typeof ens == 'string') : ens
-  let ensApiVal = ensTemp ? ensTemp : ["0xshah.eth"];
+  let ensApiVal = ensTemp ? ensTemp : [];
   const nftURL = `https://eth-mainnet.g.alchemy.com/v2/${alchemyApiKey}/getNFTs/?owner=${ensApiVal[0]}` ? alchemyApiKey && ensApiVal[0] : ''
 
   async function getEnsNFT() {
@@ -76,7 +76,7 @@ function Dashboard() {
             <h3> Your wallet Address &rarr; </h3>
             <p>{walletAddress}</p>
           </div>
-           { ensApiVal && <div className={styles.card}>
+           { ensApiVal[0] && <div className={styles.card}>
             <h3> Your ENS names &rarr; </h3>
             <table className={styles.table}>
               <thead>
