@@ -26,7 +26,7 @@ function Dashboard() {
   let ensTemp = [];
   ensTemp = [ens] ? (typeof ens == 'string') : ens
   let ensApiVal = ensTemp ? ensTemp : ["0xshah.eth"];
-  const nftURL = `https://eth-mainnet.g.alchemy.com/v2/${alchemyApiKey}/getNFTs/?owner=${ensApiVal[0]}`
+  const nftURL = `https://eth-mainnet.g.alchemy.com/v2/${alchemyApiKey}/getNFTs/?owner=${ensApiVal[0]}` ? alchemyApiKey && ensApiVal[0] : ''
 
   async function getEnsNFT() {
 
