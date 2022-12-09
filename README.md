@@ -182,6 +182,7 @@ Project Link: [https://github.com/adharshrj/Web3-Eth-Dash](https://github.com/ad
 * [License](https://choosealicense.com/licenses/mit/)
 * [Alchemy](https://dashboard.alchemy.com/)
 * [NextJS](https://nextjs.org/)
+* [OG-Template - othneildrew](https://github.com/othneildrew/Best-README-Template)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
