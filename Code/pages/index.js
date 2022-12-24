@@ -84,7 +84,7 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Hashmail FullStack App</title>
+        <title>FullStack Web3 App</title>
         <meta name="description" content="Hashmail FullStack App" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
